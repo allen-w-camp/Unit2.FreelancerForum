@@ -1,10 +1,6 @@
-ul {
-    display: flex;
-    flex-wrap: wrap;
-    list-style-type: none;
-    gap: 1ch;
-  }
-  
-  li {
-    border: solid 1px black;
+.freelancer {
+    width: 175px;
+    padding-left: 15px;
+    border: 1px solid black;
+    margin: 10px;
   }
